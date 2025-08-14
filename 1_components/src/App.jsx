@@ -10,7 +10,7 @@ function App() {
       <h1>Hello World</h1>
       <FunctionalComponent/>
       <ClassComponent/>
-      <PropsExemple nome="Matheus" idade={10}/>
+      <PropsExemple nome="Rodrigo Gomes" idade={10}/>
     </>
   )
 }

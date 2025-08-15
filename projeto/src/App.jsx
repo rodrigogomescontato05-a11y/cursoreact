@@ -1,11 +1,10 @@
-
-import './App.css'
+import TodoApp from './componentes/TodoApp'
 
 function App() {
 
   return (
     <>
-      <h1></h1>
+      <TodoApp />
     </>
   )
 }
